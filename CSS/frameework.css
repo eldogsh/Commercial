@@ -1,0 +1,94 @@
+.p-relateve {
+    position: relative;
+}
+
+.d-block {
+    display: block;
+}
+
+.d-gred {
+    display: grid;
+}
+
+.d-flex {
+    display: flex;
+}
+.w-100{
+    width: 50%;
+}
+.m-0 {
+    margin: 0;
+}
+
+.m-20 {
+    margin: 20px;
+}
+
+.m-15 {
+    margin: 15px;
+
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+.mt-180{
+    margin-top: 180px;
+}
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.c-black {
+    color: black;
+}
+
+.c-white {
+    color: white;
+}
+
+.c-black {
+    color: black;
+}
+
+.c-red {
+    color: red;
+}
+
+.c-yellow {
+    color: rgba(255, 255, 0, 0.863);
+}
+
+.c-blue {
+    color: blue;
+}
+
+.c-green {
+    color: rgb(24, 224, 24);
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-white {
+}
+.bg-selv{
+    background-color: #eee;
+}
+
+.txt-c {
+    text-align: center;
+}
+
+.fs-18 {
+    font-size: 18px;
+}
+
+.fs-13 {
+    font-size: 13px;
+}
+
+.fw-bold {
+    font-weight: bold;
+}
