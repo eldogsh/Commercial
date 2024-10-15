@@ -130,7 +130,6 @@ header .container nav ul{
 
 header .container nav ul li{
     position: relative;
-    padding: 20px 0;
 }
 
 header .container nav ul li::after {
